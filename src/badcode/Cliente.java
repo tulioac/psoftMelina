@@ -1,7 +1,7 @@
 package badcode;
 
 public class Cliente {
-    public void avisaAtraso(int d) {
+    public void avisaAtraso(int diasAtrasado) {
     }
 }
 
